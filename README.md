@@ -25,13 +25,16 @@
   <a href="https://arxiv.org/abs/2604.18215" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2604.18215-b31b1b.svg">
   </a>
+  <a href="https://iguoyanjun.github.io/memorize-when-needed-project-page/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Page-4B8BBE.svg">
+  </a>
   <a href="https://github.com/iGuoYanjun/Memorize-When-Needed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
   </a>
   <a href="https://huggingface.co/Guoyanjun/MemorizeWhenNeed" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MemorizeWhenNeed-blue">
   </a>
-  <a href="https://youtu.be/oBq52WvBxkg" target="_blank">
+  <a href="https://www.youtube.com/watch?v=oOJBvzUUw_U" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8E%A5%20Demo-Video-6A5ACD">
   </a>
 </h4>
@@ -115,7 +118,7 @@
 
 ### 🌟 More Results and Method Comparisons
 
-*Watch our [YouTube demo video](https://youtu.be/oBq52WvBxkg) for additional examples and side-by-side comparisons with other methods.*
+*Watch our [YouTube demo video](https://www.youtube.com/watch?v=oOJBvzUUw_U) for additional examples and side-by-side comparisons with other methods.*
 
 </div>
 
@@ -239,8 +242,8 @@ The generated videos are saved under `OUTPUT_DIR`.
 ```
 
 
-## Contact
+## 📧 Contact
 Please send emails to yanjunn.guo@connect.polyu.hk if there is any question.
 
-## Acknowledgements
+## 🙏 Acknowledgements
 We would like to thank the contributors to [Wan2.1](https://github.com/Wan-Video/Wan2.1), [VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun), [AC3D](https://github.com/snap-research/ac3d), [WorldMem](https://github.com/xizaoqu/WorldMem), and [CogVideoX](https://github.com/zai-org/CogVideo) for their open-source code and inspiring research, which greatly informed the development of our codebase.
